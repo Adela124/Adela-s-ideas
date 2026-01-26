@@ -6,3 +6,10 @@ how to bring ai to classroom...
 
 
 怎么把所学的math&stat和我的specialisation跟教学结合在一起呢？
+
+data anlysis about NAPLAN, VCE scores?
+
+curriculum全是统一的，作业也是？老师的练习题可以不一样，比如有网上出卷（类似题），成绩录入什么的，直接分析错题，以及相对于薄弱的能力，再针对分析和改进......（我真是个小天才）
+
+啊啊啊啊这要打代码嘛
+我是搞数学的，不是敲代码的啊啊啊啊
