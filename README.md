@@ -21,7 +21,7 @@ ps:肯定不能让学生做额外的工作，可是collect成绩的时候以及�
 最好开家长会的时候可以给一个书面的report（家长和不会打代码的人要看得懂），以及给上级汇报（数据可视化）
 
 
-Adela's mind map(informal version):
+Adela's mind map(informal version):pls switch to code to check
 
 ├─ 1. 目标 Goal
 │   ├─ 提高教学决策效率
