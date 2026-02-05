@@ -104,7 +104,7 @@ mindmap(English version)
  Root((Math & Statistics in Teaching))
 
   
-   A. Goal
+    A. Goal
    
       1)Improve teaching decisions
       
