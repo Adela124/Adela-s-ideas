@@ -101,45 +101,64 @@ Adela's mind map(informal version):
     └─ 长期可维护
 
 mindmap(English version)
-  1.root((Math & Statistics in Teaching))
-   A.Goal
+ Root((Math & Statistics in Teaching))
+
+  
+   A. Goal
+   
       1)Improve teaching decisions
+      
       2)Identify learning gaps
+      
       3)No extra student workload
     
     B. Constraints
-      1)Curriculum aligned
+    
+      1) Curriculum aligned
       
       2) No change to assessment
       
-      3)Student-facing free
+      3) Student-facing free
       
-      4)Behaviour management first
+      4) Behaviour management first
       
-      5)Teacher-only data
+      5) Teacher-only data
       
     C.Pain_Points
-      Manual marking is time-consuming
-      Only total scores available
-      Error causes unclear
-      Hard to track progress
-    Design_Principle
-      Automate mechanical work
-      Preserve teacher judgement
-      Evidence-informed teaching
-    Data_Input
-      Quiz
-      Topic_Test
-      SAC
-    Analysis
-      Descriptive_Stats
-        Item_error_rate
-        Skill_mastery
-        Percentiles
-      Error_Structure
-        Conceptual_errors
-        Procedural_errors
-        Interpretation_errors
+      1) Manual marking is time-consuming
+      
+      2) Only total scores available
+      
+      3) Error causes unclear
+      
+      4) Hard to track progress
+      
+    D. Design_Principle
+    
+      1) Automate mechanical work
+      
+      2) Preserve teacher judgement
+      
+      3) Evidence-informed teaching
+      
+    E. Data_Input
+    
+      1) Quiz
+      
+      2) Topic_Test
+      
+      3) SAC
+      
+    F. Analysis
+    
+      1) Descriptive_Stats
+      2) Item_error_rate
+      3) Skill_mastery
+      4)  Percentiles
+      5) Error_Structure
+      6) Conceptual_errors
+      7) Procedural_errors
+      8) Interpretation_errors
       Longitudinal
         Pre_vs_Post
         Topic_progress
