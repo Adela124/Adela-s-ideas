@@ -1,4 +1,4 @@
-# Adela-s-ideas
+
 ROUGH IDEAS about math, statistic and teaching
 
 
