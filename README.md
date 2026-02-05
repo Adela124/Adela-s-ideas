@@ -101,18 +101,24 @@ Adela's mind map(informal version):
     └─ 长期可维护
 
 mindmap(English version)
-  root((Math & Statistics in Teaching))
-    Goal
-      Improve teaching decisions
-      Identify learning gaps
-      No extra student workload
-    Constraints
-      Curriculum aligned
-      No change to assessment
-      Student-facing free
-      Behaviour management first
-      Teacher-only data
-    Pain_Points
+  1.root((Math & Statistics in Teaching))
+   A.Goal
+      1)Improve teaching decisions
+      2)Identify learning gaps
+      3)No extra student workload
+    
+    B. Constraints
+      1)Curriculum aligned
+      
+      2) No change to assessment
+      
+      3)Student-facing free
+      
+      4)Behaviour management first
+      
+      5)Teacher-only data
+      
+    C.Pain_Points
       Manual marking is time-consuming
       Only total scores available
       Error causes unclear
